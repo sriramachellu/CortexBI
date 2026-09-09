@@ -1,0 +1,51 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+.ruff_cache/
+*.egg-info/
+.venv/
+venv/
+.conda/
+dist/
+build/
+
+# Node / Next.js
+node_modules/
+.next/
+out/
+
+# Environment / secrets
+.env
+.env.local
+.env.production
+*.json
+!package.json
+!package-lock.json
+!tsconfig.json
+!**/alembic.ini.json
+credentials/
+*-key.json
+
+# Local dev data (never commit real uploads)
+var/
+*.csv
+!tests/fixtures/*.csv
+
+# Logs / debug output
+*.log
+*.txt
+!requirements*.txt
+
+# IDE / OS
+.vscode/
+.idea/
+*.swp
+.DS_Store
+Thumbs.db
+
+# Terraform (unused for now, ignore if it ever appears)
+.terraform/
+*.tfstate
+*.tfstate.backup

@@ -1,0 +1,11 @@
+id,name,category,revenue,units_sold,date,email
+1,Widget A,Electronics,1299.99,45,2024-01-15,
+2,Widget B,Electronics,899.50,32,2024-01-16,
+3,Gadget C,Home,249.00,120,2024-01-17,
+4,Gadget D,Home,349.99,88,2024-01-18,
+5,Tool E,Industrial,4500.00,12,2024-01-19,
+6,Tool F,Industrial,3200.00,18,2024-01-20,
+7,Widget G,Electronics,599.99,67,2024-01-21,
+8,Gadget H,Home,199.00,150,2024-01-22,
+9,Widget A,Electronics,1299.99,52,2024-01-23,
+10,Tool E,Industrial,4500.00,15,2024-01-24,
